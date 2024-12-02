@@ -42,3 +42,7 @@ _  Question 1_: fresh fruits have higher prices compared to frozen and dried fru
 _  Question 2_: There is a positive correlation between the cup equivalent price and the retail price of vegetables. As cup equivalent price increases, retail price increases. Vegetables with higher nutritional density have higher prices. 
 
 **Tableau Packaged Workbook**
+
+https://public.tableau.com/views/Group9Project2_17331708314760/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/Group9Project2_17331708314760/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
