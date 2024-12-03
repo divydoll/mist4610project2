@@ -8,7 +8,7 @@ Charlie Mixson - https://github.com/cjm75885/Project-2
 
 Cassandra Albright - https://github.com/casalbright/Project-2
 
-Divya Mathew - 
+Divya Mathew - https://github.com/divydoll/mist4610project2
 
 **Describing your dataset and what data it contains**
 
